@@ -1,2 +1,5 @@
 # Registar-sOfficeAutomationProjectWithJavaGUI
-Registar's Office Automation Project With Java GUI
+
+This project was developed with Java Swing package. 
+
+Also contains calisandb.sql file. (MySQL DBMS)
