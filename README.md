@@ -1,4 +1,4 @@
-# Registar-sOfficeAutomationProjectWithJavaGUI
+# Registrar-sOfficeAutomationProjectWithJavaGUI
 
 This project was developed with Java Swing package. 
 
